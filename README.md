@@ -30,4 +30,5 @@ Resume Builder is a web-based application that allows users to create, customize
 <img width="1699" height="794" alt="Screenshot 2025-02-18 232827" src="https://github.com/user-attachments/assets/eb80f5f2-754b-433c-a18e-1191e2d0ffd6" />
 <img width="898" height="791" alt="Screenshot 2025-02-18 232842" src="https://github.com/user-attachments/assets/0fa2231e-6c07-4d09-8a7f-5d003a4b5219" />
 <img width="949" height="876" alt="Screenshot 2025-02-18 232901" src="https://github.com/user-attachments/assets/01cdfb9f-585d-4cd8-ad80-5ef20e2c6942" />
+<img width="764" height="1039" alt="Screenshot 2025-09-13 131059" src="https://github.com/user-attachments/assets/31294cd8-7450-441c-b910-e5d3d7d24307" />
 
